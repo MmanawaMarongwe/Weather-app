@@ -33,11 +33,12 @@
   border-radius: 10px;
 }
 .card {
-  background: linear-gradient(
-    180.3deg,
-    rgb(221, 221, 221) 5.5%,
-    rgb(110, 136, 161) 90.2%
+  background: radial-gradient(
+    circle at 50.3% 44.5%,
+    rgb(116, 147, 179) 0%,
+    rgb(62, 83, 104) 100.2%
   );
+
   padding: 5px 5px;
   text-align: center;
   color: white;
